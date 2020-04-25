@@ -6,7 +6,7 @@ import sys
 sys.setrecursionlimit(20000)
 
 #let user decide on how many decimal places of pi to display
-mode = int(input("e or pi (1 or 2)?"))
+mode = int(input("e or pi (1 or 2)? "))
 digits = int(input("Number of decimal places to be calculated: "))  
 
 #Calculate pi to the n-th digit using the BBP-formula
