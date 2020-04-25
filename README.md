@@ -1,2 +1,2 @@
-# Pi-Finder
- A program to calculate Pi to the n-th decimal place.
+# e-and-pi-calculator
+ A program to calculate e or pi to the n-th decimal place.
